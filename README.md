@@ -1,4 +1,4 @@
-# Hi, I'm Harshit Sonani 👋
+# Hi, I'm Harshit Sonani
 
 .NET Developer focused on ASP.NET Core, SQL Server, Clean Architecture, and business applications.
 
